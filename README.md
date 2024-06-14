@@ -9,5 +9,7 @@ Assignment for Advanced Database (PL/SQL)
 - Name = Zakeriye Jamel Muse; Id = Cep/jj/0300/14
 - Name = Yousuf Ibrahim Mohomed; Id = Cep/jj/0299/14
 - Name = Mohamed Daud Issack;  Id = Cep/jj/0288/14
-- Name = Mahamed mustafe Arab; Id = Cep/jj/0283/14
+- Name = Mahamed mustafe Arab; Id = Cep/jj/0283/
+- Name = Mahamed Bedel abdi; Id = Cep/jj/287/14
+- Name = Mahamed Mahad Muse; Id = Cep/jj/0282/14
 
